@@ -1,0 +1,34 @@
+project_id = "tawtsykkppopmyxhqkbw"
+
+[functions.send-order-otp]
+verify_jwt = false
+
+[functions.verify-order-otp]
+verify_jwt = false
+
+[functions.send-order-confirmation]
+verify_jwt = false
+
+[functions.send-password-reset-otp]
+verify_jwt = false
+
+[functions.verify-password-reset-otp]
+verify_jwt = false
+
+[functions.custom-sign-in]
+verify_jwt = false
+
+[functions.custom-sign-up]
+verify_jwt = false
+
+[functions.generate-product-image]
+verify_jwt = false
+
+[functions.calculate-delivery-distance]
+verify_jwt = false
+
+[functions.send-order-status-update]
+verify_jwt = false
+
+[functions.send-weekly-reminder]
+verify_jwt = false
